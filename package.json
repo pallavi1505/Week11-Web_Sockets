@@ -1,0 +1,23 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "description": "socket first app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallavi1505/Week11-Web_Sockets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallavi1505/Week11-Web_Sockets/issues"
+  },
+  "homepage": "https://github.com/pallavi1505/Week11-Web_Sockets#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.3"
+  }
+}
